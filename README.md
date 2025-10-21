@@ -1,0 +1,1 @@
+The code below was used as an example during the DIO Bootcamp exercises to demonstrate how it’s possible to create a translator for translating web pages. This exercise is part of the learning path toward obtaining the AI-190 certification. Moreover, the endpoint and key may not work properly; the code is kept here for study purposes only.
